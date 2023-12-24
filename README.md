@@ -47,6 +47,4 @@ To use this processor:
 
 
 ## Design Diagram
-
-![Processor Design Diagram]
-(https://github.com/Anya620/RISCV-Processor/blob/main/Processordesign.JPG)https://github.com/Anya620/RISCV-Processor/blob/main/Processordesign.JPG)
+https://github.com/Anya620/RISCV-Processor/blob/main/Processordesign.JPG

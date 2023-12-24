@@ -7,7 +7,7 @@ Registration Number: 2020-CE-44
 
 ## Overview
 
-This project is a complete implementation of a 32-bit RISC-V processor. RISC-V is an open standard instruction set architecture (ISA) based on established reduced instruction set computer (RISC) principles. This processor is designed in SystemVerilog and is suitable for educational purposes, hardware enthusiasts, and anyone interested in processor design.
+This project, developed by Anya Yasir, is a complete implementation of a 32-bit RISC-V processor. RISC-V is an open standard instruction set architecture (ISA) based on established reduced instruction set computer (RISC) principles. This processor is designed in SystemVerilog and is suitable for educational purposes, hardware enthusiasts, and anyone interested in processor design.
 
 ## Project Structure
 
@@ -44,3 +44,8 @@ To use this processor:
 1. **Clone the Repository**: Clone this repository to your local machine.
 2. **Environment Setup**: Ensure you have a SystemVerilog-compatible simulator.
 3. **Simulation**: Use `tb_processor.sv` for simulating the processor.
+
+
+## Design Diagram
+
+![Processor Design Diagram](images/Processordesign.jpeg)

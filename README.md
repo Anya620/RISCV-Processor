@@ -48,4 +48,4 @@ To use this processor:
 
 ## Design Diagram
 
-![Processor Design Diagram](images/Processordesign.jpeg)
+![Processor Design Diagram](Processordesign.jpeg)
